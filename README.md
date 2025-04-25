@@ -22,8 +22,8 @@ Installation
 Install GTK+ 3.0:sudo apt-get install libgtk-3-dev
 
 
-Clone the repository:git clone https://github.com/yourusername/cpu-scheduler-gtk.git
-cd cpu-scheduler-gtk
+Clone the repository:git clone https://github.com/Santhosh-Gopinath/GTK-using-Scheduling-Algorithm.git
+cd GTK-using-Scheduling-Algorithm
 
 
 Compile the program:gcc scheduler.c -o scheduler `pkg-config --cflags --libs gtk+-3.0`
